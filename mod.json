@@ -1,0 +1,9 @@
+{
+	"name": "little-machine-core",
+	"displayName": "Little Machine Code [LMC]",
+	"description": "[cyan]LMC[] - addons for other Mods",
+	"version": "1.4",
+	"dependencies": [],
+	"minGameVersion": 130,
+	"hidden": true
+}
