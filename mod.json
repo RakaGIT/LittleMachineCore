@@ -2,6 +2,7 @@
 	"name": "little-machine-core",
 	"displayName": "Little Machine Code [LMC]",
 	"description": "LMC - addons for other Mods",
+	"author": "MCPC"
 	"version": "1.6",
 	"dependencies": [],
 	"minGameVersion": 130,
